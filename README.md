@@ -22,17 +22,27 @@
 
 ### :hammer_and_wrench: Languages and Skills :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
+  <img src="https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Badge"/>
+  <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css Badge"/>
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript Badge"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="django Badge"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" alt="flask Badge"/>
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" alt="angular Badge"/>
+  <img src="https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript Badge"/>
+  
+  
+  
   
 </div>
 
 ---
 
 ### :fire: My Github Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lewis-murgor&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewis-murgor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lewis-murgor/lewis-murgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
