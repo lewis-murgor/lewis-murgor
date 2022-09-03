@@ -9,7 +9,7 @@
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :mailbox:Have any questions or feedback? You can reach out to me: kiplagatlewis29@gmail.com
 <div id="badges">
-  <a href="linkedin.com/in/lewis-murgor-82894b227">
+  <a href="https://www.linkedin.com/in/lewis-murgor-82894b227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
