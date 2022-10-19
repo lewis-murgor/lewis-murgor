@@ -1,12 +1,14 @@
+<div align=center >
+ 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"/> I am Lewis Murgor
 
 ### Now Playing - Spotify 🎧
 <p>
- <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true"/>
  </a>
 </p>
-
+</div>
 
 
 ---
