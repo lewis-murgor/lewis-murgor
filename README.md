@@ -1,14 +1,6 @@
-<div align=center >
- 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"/> I am Lewis Murgor
 
-### Now Playing - Spotify 🎧
-<p>
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true"/>
- </a>
-</p>
-</div>
+ 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"/> I am Lewis Murgor :
 
 
 ---
@@ -54,6 +46,16 @@
 [![Lewis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lewis-murgor&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewis-murgor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Now Playing - Spotify 🎧 :
+
+<p>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true"/>
+ </a>
+</p>
 
 <!--
 **lewis-murgor/lewis-murgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
