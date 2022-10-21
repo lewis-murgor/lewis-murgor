@@ -49,7 +49,7 @@
 
 ---
 
-### Now Playing - Spotify 🎧 :
+### 🎧 Now Playing - Spotify  :
 
 <p>
  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ldurzaqenpr3jqltqc08ljv9o&cover_image=true&theme=default&show_offline=true">
